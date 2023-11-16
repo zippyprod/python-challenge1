@@ -1,5 +1,5 @@
-# Import the os,csv and a Staics module a friend showed me
-# This will allow us to create file paths across operating systems
+# Import the os,csv and a Statitcs module a friend showed me
+
 import os
 import csv
 import statistics
